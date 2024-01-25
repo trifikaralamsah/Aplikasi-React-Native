@@ -76,11 +76,11 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+          <Section title="Tri Fikar Alamsah">
+            Selamat <Text style={styles.highlight}>Aplikasi </Text>
+            Android Pertama anda berhasil dibuat.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="Hi, Fik, Gimana kabar?">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
